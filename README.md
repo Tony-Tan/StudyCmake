@@ -5,7 +5,9 @@ Study cmake to manage project
 ##参考
 CMake中文手册
 ##我的博客
-tcvpr.com
-tony-tan.copm
-blog.csdn.net/TonyShengTan
+***tcvpr.com***
+
+***tony-tan.com***
+
+***blog.csdn.net/TonyShengTan***
 
